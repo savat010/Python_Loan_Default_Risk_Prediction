@@ -1,4 +1,4 @@
-# CSOM_MSBA_6420_Home_Credit
+# Home Credit Default Risk
 As part of our MSBA 6420 - Predicitive Analytics course for the Spring 2022 Batch, we have created a complete solution of the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) Kaggle Compeititon.
 
 The Repository is divided into 3 parts -  
